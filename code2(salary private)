@@ -25,7 +25,7 @@ class teacher{
     }
 };
 int main() {
-    teacher t1;
+    teacher t1;//constructor call
     t1.name="rohan";
     t1.dept="computer science";
     t1.subject="oops";
